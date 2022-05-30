@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hello world 🌎 I'm Camilo Quiroga 👋</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina.</h3>
-<h3 align="center">😄 Pronouns: He - They. </h3>
+<h3 align="center">😄 Pronouns: He - Him - His. </h3>
 
 - 🌱 I’m currently learning **Full Stack in Educación IT thanks to Pescar Fundation and JP Morgan. I also do a technical degree in Data Sciences and AI at the Higher Polytechnic Institute of Córdoba, ISPC.**
 
