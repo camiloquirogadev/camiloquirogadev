@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Full Stack developer from Argentina.</h3>
 <h3 align="center">😄 Pronouns: He - Him - His. </h3>
 
-- 🌱 I’m currently a **Full Stack student @ EducaciónIT. Thanks to Fundación Pescar and JP Morgan. I'm also doing a technical degree in Data Sciences and AI @ the Higher Polytechnic Institute of Córdoba, ISPC.**
+- 🌱 I’m currently a **Full Stack student. I'm also doing a technical degree in Data Sciences and AI @ the Higher Polytechnic Institute of Córdoba, ISPC.**
+
+- 🌱 Actualmente soy estudiante de Full Stack. También estoy haciendo la carrera técnica en Ciencias de Datos e IA @ Instituto Politécnico Superior de Córdoba, ISPC.**
 
 - 📫 How to reach me **camilosolquiroga@gmail.com**
 
