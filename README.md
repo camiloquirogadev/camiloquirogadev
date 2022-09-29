@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently a **Full Stack student. I'm also doing a technical degree in Data Sciences and AI @ the Higher Polytechnic Institute of Córdoba, ISPC.**
 
-- 🌱 Actualmente soy estudiante de Full Stack. También estoy haciendo la carrera técnica en Ciencias de Datos e IA @ Instituto Superior Politécnico  de Córdoba, ISPC.**
+- Actualmente soy estudiante de Full Stack. También estoy haciendo la carrera técnica en Ciencias de Datos e IA @ Instituto Superior Politécnico  de Córdoba, ISPC. 
 
 - 📫 How to reach me **camilosolquiroga@gmail.com**
 
