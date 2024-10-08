@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="center"> 📫 How to reach me **camilosolquiroga@gmail.com** </p>
+<p align="center"> 📫 How to reach me camilosolquiroga@gmail.com** </p>
 
 
 <p align="center">
