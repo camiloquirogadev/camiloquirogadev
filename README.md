@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 📫 How to reach me <strong> camilosolquiroga@gmail.com </strong> </p>
-
+<a href="(https://camiloquirogadev.github.io/portafolio/" target="blank"><img align="center" src="" alt="camilo-quiroga" height="30" width="40" /></a>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/camilo-quiroga-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camilo-sol-quiroga" height="30" width="40" /></a>
