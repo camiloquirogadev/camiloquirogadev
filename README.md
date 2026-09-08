@@ -1,28 +1,27 @@
+# Camilo Quiroga
 
-<!--
-**camiloquirogadev/camiloquirogadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador full stack de Argentina. Estudio dos tecnicaturas universitarias:
+Programación en la UTN, y Sistemas de Información Geográfica y Teledetección en la UNaM.
 
-Here are some ideas to get you started:
+Trabajo sobre todo con JavaScript y TypeScript —React, Next.js y Node—, y también
+comencé en desarrollo geoespacial (mapas, datos satelitales, Python).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hello world 🌎 I'm Camilo Quiroga 👋</h1>
-<h3 align="center"> Full Stack developer from Argentina.</h3>
+## Stack
 
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=4169E1)
+![PostGIS](https://img.shields.io/badge/PostGIS-1a1a1a?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![QGIS](https://img.shields.io/badge/QGIS-1a1a1a?style=flat-square&logo=qgis&logoColor=589632)
+![Leaflet](https://img.shields.io/badge/Leaflet-1a1a1a?style=flat-square&logo=leaflet&logoColor=199900)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=F05032)
 
+## Contacto
 
-
-<p align="center"> 📫 How to reach me <strong> quirogacamilodev@gmail.com </strong> </p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/camilo-quiroga-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camilo-sol-quiroga" height="30" width="40" /></a>
-</p>
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/camilo-quiroga-dev)
+[![Gmail](https://img.shields.io/badge/camilosolquiroga@gmail.com-1a1a1a?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:camilosolquiroga@gmail.com)
